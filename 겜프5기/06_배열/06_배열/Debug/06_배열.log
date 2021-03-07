@@ -1,0 +1,3 @@
+﻿  02_다차원배열.cpp
+C:\Users\SBSGAME\Desktop\Share\박진혁\겜프5기\06_배열\06_배열\02_다차원배열.cpp(3,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  06_배열.vcxproj -> C:\Users\SBSGAME\Desktop\Share\박진혁\겜프5기\06_배열\Debug\06_배열.exe
